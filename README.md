@@ -1,0 +1,1 @@
+This file contains single test case to understand how can we design framework for our automation.
